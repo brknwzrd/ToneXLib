@@ -18,7 +18,7 @@ If you named the Table Name correctly you should see this dialogue, if you don't
 
 ![image](https://user-images.githubusercontent.com/116271180/197087989-3ad4b589-841c-4baf-a9fb-25721ed92e9c.png)
 
-Hit yes to all, if you head over to the Browse Data tab and select ToneModels, you should now see you have over 2000 models. Once you're satisfied all of the models have been imported correctly hit the "Write Changes" button at the top button bar and that's it you're done. Close SQLite, then you can open ToneX.
+Hit yes to all, if you head over to the Browse Data tab and select ToneModels, you should now see you have over 2000 models. Once you're satisfied all of the models have been imported correctly hit the "Write Changes" button at the top button bar and that's it you're done. Close SQLite, then you can open ToneX. It's normal for it to take a little while for ToneX to open as it reads the Library.db 
 
 ![image](https://user-images.githubusercontent.com/116271180/197088052-61106673-9a7c-4cb1-a04c-9710f2249769.png)
 
