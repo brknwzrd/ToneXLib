@@ -6,7 +6,7 @@ The first thing you will need is SQLite Browser which you can get here for free 
 
 Next you need the CSV files which are essentially just a list of the models that have been uploaded to ToneNet. Each CSV file contains models uploaded between the dates indicated in the file name, this is due to upload file size limits on github. You will need to repeat the process for each CSV to get the maximum number of models.
 
-Once you have SQLite installed you'll want to open you Library.db
+Once you have SQLite installed you'll want to open your Library.db
 
 ![image](https://user-images.githubusercontent.com/116271180/197087838-caeb2dbe-907d-4f13-b4fe-ccc88cafef74.png)
 
@@ -18,7 +18,7 @@ If you named the Table Name correctly you should see this dialogue, if you don't
 
 ![image](https://user-images.githubusercontent.com/116271180/197087989-3ad4b589-841c-4baf-a9fb-25721ed92e9c.png)
 
-Hit yes to all, if you head over to the Browse Data tab and select ToneModels, you should now see you have around over 2000 models Once you're satisfied all of the models have been imported correctly hit the "Write Changes" button at the top button bar and that's it you're done. Close SQLite, then you can open ToneX.
+Hit yes to all, if you head over to the Browse Data tab and select ToneModels, you should now see you have over 2000 models. Once you're satisfied all of the models have been imported correctly hit the "Write Changes" button at the top button bar and that's it you're done. Close SQLite, then you can open ToneX.
 
 ![image](https://user-images.githubusercontent.com/116271180/197088052-61106673-9a7c-4cb1-a04c-9710f2249769.png)
 
