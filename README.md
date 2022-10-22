@@ -1,5 +1,7 @@
 # ToneXLib
 
+You will need to make sure you have updated to the latest ToneX version and opened it at least once before starting this proces.
+
 These are CSV files which you can import into your ToneX library.db using an SQL editor like SQLiteBrowser.
 
 The first thing you will need is SQLite Browser which you can get here for free https://sqlitebrowser.org/
