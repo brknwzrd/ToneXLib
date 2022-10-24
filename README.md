@@ -18,7 +18,7 @@ Then choose one of the CSV files from the github. You'll be importing it into yo
 
 There are three important steps at this point. The first is that you alter the Table Name to ToneModels. The second is that you tick the box "Column names in first line". The third is that you head to the advanced drop down, and under "Conflict Strategy" select either "Ignore Row" or "Replace Existing Row". This is so that if you already have some of the models in your library the program doesn't freak out, SQL entries need to be unique. So if after the import you see a couple errors, don't worry that's normal, it just means you had a few duplicates.
 
-![image](https://user-images.githubusercontent.com/116271180/197087964-2224ae98-21c6-4e7e-8fe1-6a36b9b794d7.png)
+![image](https://user-images.githubusercontent.com/116271180/197430941-0880135b-fdb9-4bf3-8090-e18d8324c700.png)
 
 If you named the Table Name correctly you should see this dialogue, if you don't, you probably mis-typed the table name.
 
