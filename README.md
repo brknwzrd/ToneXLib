@@ -10,7 +10,8 @@ Next you need the CSV files which are essentially just a list of the models that
 
 Once you have SQLite installed you'll want to open your Library.db
 
-![image](https://user-images.githubusercontent.com/116271180/197430168-f9f1ec02-8ec2-4025-b6be-3b58c7a83665.png)
+![image](https://user-images.githubusercontent.com/116271180/197430730-50074e81-9d37-41fe-a96a-5826b8999b96.png)
+
 
 Then choose one of the CSV files from the github. There are three important steps at this point. The first is that you alter the Table Name to ToneModels. The second is that you tick the box "Column names in first line". The third is that you head to the advanced drop down, and under "Conflict Strategy" select either "Ignore Row" or "Replace Existing Row". This is so that if you already have some of the models in your library the program doesn't freak out, SQL entries need to be unique. So if after the import you see a couple errors, don't worry that's normal, it just means you had a few duplicates.
 
