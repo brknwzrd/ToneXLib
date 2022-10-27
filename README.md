@@ -12,7 +12,7 @@ Once you have SQLite installed you'll want to open your Library.db
 
 ![image](https://user-images.githubusercontent.com/116271180/197430730-50074e81-9d37-41fe-a96a-5826b8999b96.png)
 
-Head over "Browse Data" and check out the ToneModels table. You will need to check where your "Version" column is located as depending on which version of ToneX you started with this column could be located in location "B", ie the second column, or potentially at the end. If your version location doesn't match you will need to edit the CSV in excel, google sheets, libre office, or similar to make sure the CSV has the column in the same order as your library.db
+Head over "Browse Data" and check out the ToneModels table. You will need to check where your "Version" column is located as depending on which version of ToneX you started with this column could be located in location "B", ie the second column, or potentially at the end. If your version location doesn't match you will need to edit the CSV files in excel, google sheets, libre office, or similar to make sure the CSV has the column in the same order as your library.db
 
 ![image](https://user-images.githubusercontent.com/116271180/197088052-61106673-9a7c-4cb1-a04c-9710f2249769.png)
 
